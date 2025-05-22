@@ -81,7 +81,7 @@ BlogApp/
 ├── 📄 BlogApp.sln                 # Visual Studio Solution File (if applicable)
 └── 📄 README.md                   # You are here!
 
----
+```
 
 ## 📋 Prerequisites
 
@@ -92,7 +92,7 @@ Before you begin, ensure you have the following installed:
 * **🅰️ Angular CLI:** Globally installed (`npm install -g @angular/cli`)
 * **💾 Microsoft SQL Server:** (e.g., Express, Developer, or Standard edition)
 * **🐙 Git:** For version control.
-```
+
 
 ## ⚙️ Setup and Installation Guide
 
