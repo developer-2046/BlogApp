@@ -45,6 +45,7 @@ Here's a look at the stack:
 
 Here’s a conceptual layout of how the project is organized:
 
+```text
 BlogApp/
 ├── 📁 BlogApp.API/                # ASP.NET Core Backend Project
 │   ├── Controllers/            # Handles incoming API requests
